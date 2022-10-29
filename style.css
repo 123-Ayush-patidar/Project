@@ -776,6 +776,12 @@ form textarea {
   height: 200px;
   background: black;
 }
+@media (max-width:1000px) {
+  .last {
+    width: 100%;
+    height: 500px;
+  }
+  }
 
 .l1 {
   width: 12.5%;
